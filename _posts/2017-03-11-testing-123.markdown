@@ -1,5 +1,6 @@
 ---
+title: Testing 1.2.3.
+date: 2017-03-11 21:04:07 Z
 layout: post
-title: "Testing 1.2.3."
-date: "2017-03-11 15:04:07 -0600"
 ---
+
