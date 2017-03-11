@@ -1,5 +1,6 @@
 ---
-title: Bust a mac
+title: Bust A Mac
+tagline: All the info you'll need to bust your Mac.
 timezone: UTC
 collections:
   posts:
@@ -8,16 +9,20 @@ collections:
   uploads:
     title: Uploads
     output: true
+  pages:
+    title: Uploads
+    output: true
 defaults:
 - scope:
-    path: ''
+    path: '_posts'
     type: posts
   values:
     layout: post
     permalink: "/posts/:title/"
 - scope:
-    path: ''
+    path: '_pages'
     type: pages
   values:
     layout: page
 permalink: pretty
+include: ['_pages']
