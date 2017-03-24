@@ -46,6 +46,7 @@ $on-laptop:        800px;
 body{
   font-family: $base-font-family;
   background-color: $background-color;
+  margin: 0;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)

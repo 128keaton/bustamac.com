@@ -4,9 +4,9 @@ layout: default
 ---
 
 <div class="home">
+    {% include notice.html content="We're still under construction" %}
   <div class="page-header">
-    <p class="page-subtitle">{{ site.tagline }}</p>
-    <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
   </div>
   <ul class="post-list">
     {% for post in site.posts %}
