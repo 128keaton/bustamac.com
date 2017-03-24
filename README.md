@@ -7,8 +7,8 @@
 5. Commit and push the changes, then open a pull request.
 
 ## Sample Template:
----
+```---
 title: Blog Post Title
 date: 2012-03-02 12:02 
 author: Paul Rand
----
+---```
