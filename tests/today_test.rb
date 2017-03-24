@@ -5,6 +5,7 @@ class TodayTest < Blog::Test
     posts.each do |post|
       content = File.read(post)
       content = content.gsub(/\A---(.|\n)*?---/, '')
+      puts content
       body_text = content.split("\n").delete_if do |line|
         line[0] == "#" || line.strip == ""
       end
