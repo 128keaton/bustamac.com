@@ -6,6 +6,10 @@
 4. Write the post, with the sample template at the very top, edited to your liking.
 5. Commit and push the changes, then open a pull request.
 
+## Notes:
+We'd prefer most 'posts' written in tip or guide form just because this isn't a news site.
+Proper grammer, spelling, and punctuation is a must, and thats why we have pull requests
+
 ## Sample Template:
 ```
 ---
