@@ -1,6 +1,6 @@
 body {
   font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
-  background-color: #e9e9e9; }
+  background-color: #fff; }
 
 a.site-title {
   font-size: 55px;
@@ -14,7 +14,7 @@ a.site-title::after {
 .site-nav {
   width: 100%;
   padding: 12px;
-  background-color: gray; }
+  background-color: #4b44bf; }
 
 .site-nav a {
   color: white;
