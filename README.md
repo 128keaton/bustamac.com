@@ -1,4 +1,4 @@
-# [BustAMac](http://bustamac.com) ![](https://travis-ci.org/128keaton/bustamac.com.svg?branch=master)
+# [BustAMac](http://bustamac.com) [![Build Status](https://travis-ci.org/128keaton/bustamac.com.svg?branch=public)](https://travis-ci.org/128keaton/bustamac.com)
 ## Contributing Guidelines:
 1. Fork and clone the repo into your GitHub account
 2. Navigate to the posts directory.
